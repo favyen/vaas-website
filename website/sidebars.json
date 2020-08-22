@@ -1,10 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Overview": ["introduction", "quickstart", "data_model"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Example Applications": ["examples", "dashcam_lane_change"]
   }
 }
