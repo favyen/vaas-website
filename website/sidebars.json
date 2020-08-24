@@ -3,6 +3,6 @@
     "Overview": ["introduction", "quickstart", "data_model"]
   },
   "docs-other": {
-    "Example Applications": ["examples", "dashcam_lane_change"]
+    "Example Applications": ["examples", "dashcam_lane_change", "turning_movement_count"]
   }
 }
