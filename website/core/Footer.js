@@ -31,15 +31,15 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('introduction.html')}>
-              Introduction
-            </a>
+            <a href={this.docUrl('introduction.html')}>Introduction</a>
+            <a href={this.docUrl('quickstart.html')}>Quickstart</a>
+            <a href={this.docUrl('data_model.html')}>Data Model</a>
+            <a href={this.docUrl('operations.html')}>Supported Operations</a>
           </div>
           <div>
-            <h5>Example Applications</h5>
-            <a href={this.docUrl('examples.html')}>
-              Examples
-            </a>
+            <h5><a href={this.docUrl('examples.html')}>Example Applications</a></h5>
+            <a href={this.docUrl('dashcam_lane_change.html')}>Detecting Lane Changes</a>
+            <a href={this.docUrl('turning_movement_count.html')}>Turning Movement Count</a>
           </div>
           <div>
             <h5>More</h5>

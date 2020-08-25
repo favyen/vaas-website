@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Overview": ["introduction", "quickstart", "data_model"]
+    "Overview": ["introduction", "quickstart", "data_model", "operations"]
   },
   "docs-other": {
     "Example Applications": ["examples", "dashcam_lane_change", "turning_movement_count"]
